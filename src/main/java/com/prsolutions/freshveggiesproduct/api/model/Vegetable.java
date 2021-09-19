@@ -1,4 +1,4 @@
-package com.prsolutions.freshveggiesproduct.model;
+package com.prsolutions.freshveggiesproduct.api.model;
 
 public class Vegetable {
 
